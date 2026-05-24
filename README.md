@@ -1,6 +1,16 @@
+<div align="center">
+
+<img src="https://github.com/RetrivedMods/MCPE-Downloader/blob/main/mcpedownloader.webp?raw=true" width="180" alt="MCPE Downloader Logo">
+
 # MCPE Downloader
 
+![MCPE Downloader](https://img.shields.io/badge/MCPE%20Downloader-Online-green)
+![RetrivedMods](https://img.shields.io/badge/RetrivedMods-Official-blue)
+![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock-darkgreen)
+
 MCPE Downloader is a platform focused on providing Minecraft PE content including builds, mods, texture packs, shaders, maps, clients, and tools.
+
+</div>
 
 ---
 
